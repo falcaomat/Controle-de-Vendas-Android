@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Controle de Vendas</string>
+    <string name="button_vendas">Registrar Vendas</string>
+    <string name="button_estoque">Controle de Estoque</string>
+</resources>
